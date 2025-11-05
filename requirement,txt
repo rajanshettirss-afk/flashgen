@@ -1,0 +1,9 @@
+pdfplumber
+nltk
+torch
+transformers
+tokenizers
+sentencepiece
+streamlit
+scikit-learn
+faiss-cpu
