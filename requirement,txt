@@ -7,3 +7,6 @@ sentencepiece
 streamlit
 scikit-learn
 faiss-cpu
+torch==2.9.0
+sentencepiece
+nltk
